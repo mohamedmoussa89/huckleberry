@@ -52,6 +52,10 @@ main {
   padding-top: 8px;
 }
 
+.card p {
+  line-height: 1.4;
+}
+
 .indented-heading {
   background: hsl(45deg, 100%, 50%);
   border-bottom: 7px solid hsl(45deg, 100%, 40%);
